@@ -32,6 +32,7 @@ Create folder in home directory and create connections.ini file.
 
 ```
 mkdir ~/.ssm
+cd ~/.ssm
 touch connections.ini
 ```
 

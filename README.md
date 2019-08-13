@@ -47,6 +47,8 @@ options=
 ssh_key=
 ```
 
+You can use different ssh keys for each connection and you can define options for ssh command. 
+
 # Use it!
 
 ```
